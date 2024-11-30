@@ -1,8 +1,27 @@
-# a_survey_in_ISOT
-本文主要梳理了从10年之后的红外小目标跟踪领域的发展，主要经历了传统方法、相关滤波、深度学习相关方法三个阶段。
+# A_survey_in_ISOT
+This paper mainly reviews the development of infrared small target tracking after 10 years, which has mainly gone through three stages: traditional methods, correlation filtering, and deep learning related methods.
 
-Some tranditional methods
+这里主要梳理了从10年之后的红外小目标跟踪领域的发展，主要经历了传统方法、相关滤波、深度学习相关方法三个阶段。
 
-Correlation filter
+## Some tranditional methods
 
-DL methods
+### TBD(Track-before-detect)
+* Detecting-and-tracking-dim-moving-point-target-in-Infrared[[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1350449504000878)
+* Infrared small target detection based on sparse representation[[Paper]](http://journal.sitp.ac.cn/hwyhmb/hwyhmben/article/abstract/100359)
+
+### PF(Particle Filter)
+* 新遗传粒子滤波的红外弱小目标跟踪与检测[[Paper]](https://journal.xidian.edu.cn/xdxb/EN/abstract/abstract11005.shtml)
+* An Intelligent Particle Filter for Infrared Dim Small Target Detection and Tracking[[Paper]](https://ieeexplore.ieee.org/abstract/document/9761758)
+
+### MS(Mean Shift)
+* Tracking of infrared small-target based on improved Mean-Shift algorithm[Paper]
+* Small Target Tracking Based on Histogram Interpolation Mean Shift[[Paper]](https://jeit.ac.cn/en/article/doi/10.3724/SP.J.1146.2009.01245)
+
+## Correlation filter
+
+### KCF
+### STRCF
+
+##DL methods
+###Siamese method
+###Transformer method
