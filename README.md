@@ -18,10 +18,14 @@ This paper mainly reviews the development of infrared small target tracking afte
 * Small Target Tracking Based on Histogram Interpolation Mean Shift[[Paper]](https://jeit.ac.cn/en/article/doi/10.3724/SP.J.1146.2009.01245)
 
 ## Correlation filter
-
+* Dim and Small Target Detection Based on Improved Spatio-Temporal Filtering[paper](https://ieeexplore.ieee.org/document/9580632?denied=)
+* AutoTrack: Towards High-Performance Visual Tracking for UAV With Automatic Spatio-Temporal Regularization[[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_AutoTrack_Towards_High-Performance_Visual_Tracking_for_UAV_With_Automatic_Spatio-Temporal_CVPR_2020_paper.html)
 ### KCF
-### STRCF
+* Real-time detection and tracking of infrared small targets based on grid fast density peaks searching and improved KCF[[paper]](https://www.sciencedirect.com/science/article/pii/S1350449522001621)
+### SRDCF
 
 ##DL methods
+
 ###Siamese method
+
 ###Transformer method
