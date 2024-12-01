@@ -23,6 +23,7 @@ This paper mainly reviews the development of infrared small target tracking afte
 * Evaluation of Feature Channels for Correlation-Filter-Based Visual Object Tracking in Infrared Spectrum[[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2016_workshops/w9/html/Gundogdu_Evaluation_of_Feature_CVPR_2016_paper.html)
 * Infrared Dim-Small Target Tracking Based on Guide Filter and Spatiotemporal Context Learning
 * Infrared dim target tracking based on guide filter and Bayes classification[[Paper]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10157/101573I/Infrared-dim-target-tracking-based-on-guide-filter-and-Bayes/10.1117/12.2247411.short)
+* IRSDT: A framework for infrared small target tracking with enhanced detection[[paper]](https://www.mdpi.com/1424-8220/23/9/4240)
 ### KCF
 * Infrared dim-small target tracking via singular value decomposition and improved Kernelized correlation filter[[Paper]](https://www.sciencedirect.com/science/article/pii/S1350449516304832)
 * Real-time detection and tracking of infrared small targets based on grid fast density peaks searching and improved KCF[[paper]](https://www.sciencedirect.com/science/article/pii/S1350449522001621)
