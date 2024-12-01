@@ -22,10 +22,13 @@ This paper mainly reviews the development of infrared small target tracking afte
 * AutoTrack: Towards High-Performance Visual Tracking for UAV With Automatic Spatio-Temporal Regularization[[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_AutoTrack_Towards_High-Performance_Visual_Tracking_for_UAV_With_Automatic_Spatio-Temporal_CVPR_2020_paper.html)
 ### KCF
 * Real-time detection and tracking of infrared small targets based on grid fast density peaks searching and improved KCF[[paper]](https://www.sciencedirect.com/science/article/pii/S1350449522001621)
+* Fast and Robust Infrared Image Small Target Detection Based on the Convolution of Layered Gradient Kernel[[Paper]](https://ieeexplore.ieee.org/document/9454439?denied=)
 ### SRDCF
 
-##DL methods
+### Correlation filter with DL methods
+* Deep convolutional neural networks for thermal infrared object tracking[[paper]](https://www.sciencedirect.com/science/article/pii/S0950705117303544)
+## DL methods
 
-###Siamese method
+### Siamese method
 
-###Transformer method
+### Transformer method
