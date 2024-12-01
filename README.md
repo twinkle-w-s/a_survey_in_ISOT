@@ -20,6 +20,7 @@ This paper mainly reviews the development of infrared small target tracking afte
 ## Correlation filter
 * Dim and Small Target Detection Based on Improved Spatio-Temporal Filtering[paper](https://ieeexplore.ieee.org/document/9580632?denied=)
 * AutoTrack: Towards High-Performance Visual Tracking for UAV With Automatic Spatio-Temporal Regularization[[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_AutoTrack_Towards_High-Performance_Visual_Tracking_for_UAV_With_Automatic_Spatio-Temporal_CVPR_2020_paper.html)
+* Evaluation of Feature Channels for Correlation-Filter-Based Visual Object Tracking in Infrared Spectrum[[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2016_workshops/w9/html/Gundogdu_Evaluation_of_Feature_CVPR_2016_paper.html)
 ### KCF
 * Real-time detection and tracking of infrared small targets based on grid fast density peaks searching and improved KCF[[paper]](https://www.sciencedirect.com/science/article/pii/S1350449522001621)
 * Fast and Robust Infrared Image Small Target Detection Based on the Convolution of Layered Gradient Kernel[[Paper]](https://ieeexplore.ieee.org/document/9454439?denied=)
